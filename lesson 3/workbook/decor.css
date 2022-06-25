@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(188 237 241);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    border-radius: 50%;
+}
+h1{
+    color: rgb(74 118 129);
+    font-weight:900;
+}
+
+h2{
+    color: rgb(74 118 129);
+    font-weight:900;
+}
+
+hr{
+    border-top: 5px dashed rgb(32, 125, 148);
+}
+
+p{
+    color:#169494;
+    font-weight: 900;
+    font-size:large;
+}
+
+li{
+    font-size:small;
+    font-weight:500;
+}

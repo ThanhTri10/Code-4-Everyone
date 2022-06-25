@@ -1,0 +1,22 @@
+.article{
+    font-family: Arial, Helvetica, sans-serif;
+    display:flex;
+    width:50%;
+    margin:auto;
+}
+.article_image{
+    width: 30%;
+}
+.article_content{
+    width:70%;
+    margin-left:20px;
+}
+
+.article_content-detail{
+    margin-top:10px;
+    margin-bottom:30px;
+}
+
+.article_content-view{
+    
+}
