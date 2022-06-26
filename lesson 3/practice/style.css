@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Latin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@575&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@275&display=swap');
+
+.article{
+    display:inline-block;
+    margin-right: 100px;
+}
+
+.article-title{
+    font-family: 'Anek Latin', sans-serif;
+    font-weight:900;
+}
+
+.article-image{
+    width:1330px;
+    height:700px;
+}
+
+.article-content-article{
+    font-family: 'Montserrat', sans-serif;
+    font-size:20px;
+    margin-top: 20px;
+}
+
+.article-content-detail{
+    font-family: 'Roboto Slab', serif;
+    font-size:15px;
+    margin-top:15px;
+}
+
+.article-button{
+    width:150px;
+    height:50px;
+    background-color: rgb(24, 109, 109);
+    border: none;
+    color: white;
+}

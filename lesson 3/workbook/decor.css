@@ -20,13 +20,13 @@ hr{
     border-top: 5px dashed rgb(32, 125, 148);
 }
 
-p{
+p.category{
     color:#169494;
     font-weight: 900;
     font-size:large;
 }
 
-li{
+ul.class{
     font-size:small;
     font-weight:500;
 }
