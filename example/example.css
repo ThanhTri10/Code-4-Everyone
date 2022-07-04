@@ -1,0 +1,43 @@
+.container{
+    background-image: url(https://jes.edu.vn/wp-content/uploads/2017/10/hình-ảnh.jpg);
+    width:400px;
+    height:200px;
+    background-size:cover;
+    position:relative;
+}
+
+h3.title{
+    display:none;
+}
+
+p.description{
+    display:none;
+}
+
+.bg-black{
+    transition-duration:2s;
+}
+
+.container:hover .bg-black{
+    position:absolute;
+    background: rgba(0,0,0,0.5);
+    color:pink;
+    top: 0;
+    right:0;
+    bottom: 0;
+    left: 0;
+}
+
+.container:hover h3.title{
+    display:block;
+    transform:translate(140px, 20px);
+    color: white;
+}
+
+.container:hover p.description{
+    display: block;
+    text-align:center;
+    transform:translateY(45px);
+    color:white;
+}
+
